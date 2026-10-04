@@ -1,0 +1,7 @@
+numpy
+Pillow
+# Optional but recommended: face detection for auto scale, light shape, texture match and blink check.
+# Must be < 5: OpenCV 5 no longer ships the face detection models.
+opencv-python-headless<5
+# tests only
+pytest

@@ -1,0 +1,19 @@
+{
+  "scene": {
+    "reference_patch": null,
+    "wall": null
+  },
+  "input": {
+    "rotate": 90,
+    "mirror": true
+  },
+  "exposure": {
+    "target": null
+  },
+  "celebs": {
+    "default": {
+      "neutral_region": null,
+      "height_ratio": 1.0
+    }
+  }
+}
